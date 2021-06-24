@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="heading">To Do List</string>
+    <string name="dialog_delete">Delete task?</string>
+    <string name="mes_delete">Task deletion</string>
+    <string name="ok">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="newTask">Create new task</string>
+    <string name="instr1">Enter name of the task</string>
+    <string name="instr2">Enter description of the task</string>
+    <string name="instr3">Choose date</string>
+    <string name="instr4">Choose time</string>
+    <string name="instr5">Choose category</string>
+    <string name="instr6">Choose priority</string>
+    <string-array name="categories">
+        <item>Home</item>
+        <item>Work</item>
+        <item>School</item>
+        <item>Shopping</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="priorities">
+        <item>Normal</item>
+        <item>Important</item>
+    </string-array>
+    <string-array name="sort">
+        <item>Date</item>
+        <item>Name</item>
+        <item>Category</item>
+        <item>Priority</item>
+        <item>Status</item>
+    </string-array>
+    <string name="channel_name">coś</string>
+    <string name="channel_description">cośinnego</string>
+</resources>
